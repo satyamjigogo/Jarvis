@@ -1,0 +1,7 @@
+{
+  "name": "JARVIS AI",
+  "description": "An AI-powered coding assistant and chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
